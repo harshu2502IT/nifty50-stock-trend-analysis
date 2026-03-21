@@ -31,15 +31,15 @@ of the Nifty 50 index to guide large-cap fund allocation decisions.
 ```
 nifty50/
 ├── data/
-│   ├── nifty50_raw.csv
+│   ├── nifty50_data.csv
 │   ├── nifty50_cleaned.csv
 │   └── nifty50_features.csv
 ├── python/
-│   └── nifty50_analysis.ipynb
+│   └── nifty50 analysis.ipynb
 ├── sql/
-│   └── nifty50_queries.sql
+│   └── nifty50 sql code.sql
 ├── powerbi/
-│   └── nifty50_dashboard.pbix
+│   └── nifty50.pbix
 ├── report/
 │   └── Nifty50_Project_Report.docx
 └── README.md
