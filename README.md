@@ -98,20 +98,6 @@ The interactive dashboard includes:
 - Year & Trend Button Slicers
   <img width="1245" height="649" alt="Screenshot 2026-03-21 101122" src="https://github.com/user-attachments/assets/3f5993fc-a569-499f-8c0d-68aea3a96bbe" />
 
-
-## 🚀 How to Run
-1. Clone the repository:
-```bash
-   git clone https://github.com/YOUR_USERNAME/nifty50-stock-trend-analysis.git
-```
-2. Install Python dependencies:
-```bash
-   pip install yfinance pandas numpy matplotlib sqlalchemy mysql-connector-python
-```
-3. Run the Jupyter notebook in `python/` folder
-4. Import `nifty50_features.csv` into MySQL and run `sql/nifty50_queries.sql`
-5. Open `powerbi/nifty50_dashboard.pbix` in Power BI Desktop
-
 ## 📋 Requirements
 ```
 yfinance
